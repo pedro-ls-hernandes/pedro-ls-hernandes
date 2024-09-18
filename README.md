@@ -7,8 +7,8 @@
 <br><br>
 <kbd align="center">
  <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=pedro-ls-hernandes&theme=midnight-purple&card_width=1000&stroke=393f48&border=white"/>
- <img src="https://github-readme-stats.vercel.app/api?username=pedro-ls-hernandes&show_icons=true&theme=midnight-purple&card_width=500&stroke=393f48&border=white"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ls-hernandes&theme=midnight-purple&card_width=450&stroke=393f48&border=white&hide_progress=true)"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=pedro-ls-hernandes&show_icons=true&theme=midnight-purple&stroke=393f48&border=white"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-ls-hernandes&theme=midnight-purple&stroke=393f48&border=white&hide_progress=true)"/>
 </kbd>
 
   <div><br>
