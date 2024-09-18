@@ -6,7 +6,7 @@
 
 <br><br>
 <kbd align="center">
- <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=pedro-ls-hernandes&theme=midnight-purple&card_width=1000&background=29133B&stroke=393f48&border=white&exclude_days=Sun%2CSat"/>
+ <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=pedro-ls-hernandes&theme=midnight-purple&card_width=1000&background=212121&stroke=393f48&border=white&exclude_days=Sun%2CSat"/>
 </kbd>
 
   <div align="center" style="display: "><br>
