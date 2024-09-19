@@ -4,7 +4,8 @@
 - ✒️🎮 Development, design and gaming enthusiast
 - 🚀 I'm aiming forward to learn about new programming languages and technologies
 
-<br><br>
+<img src="https://github.com/user-attachments/assets/267ab737-1063-4525-88e3-a270ae2503f4"/>
+
 <kbd align="center">
  <img src="https://github-readme-streak-stats-five-lac.vercel.app?user=pedro-ls-hernandes&theme=midnight-purple&card_width=1000&stroke=393f48&border=white"/>
  <img src="https://github-readme-stats.vercel.app/api?username=pedro-ls-hernandes&show_icons=true&theme=midnight-purple&stroke=393f48&border=white"/>
