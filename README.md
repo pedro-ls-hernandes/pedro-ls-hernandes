@@ -1,6 +1,6 @@
 # Hello there! Welcome!
 - 👋 My name is Pedro Hernandes, I'm from Brazil! 
-- 💻 Currently studying Software Development, 3/6
+- 💻 Currently studying Software Development, 4/6
 - ✒️🎮 Development, design and gaming enthusiast
 - 🚀 I'm aiming forward to learn about new programming languages and technologies
 
