@@ -1,6 +1,6 @@
 # Hello there! Welcome!
 - 👋 My name is Pedro Hernandes, I'm from Brazil! 
-- 💻 Currently studying Software Development, 4/6
+- 💻 Currently studying Software Development, 5/6
 - ✒️🎮 Development, design and gaming enthusiast
 - 🚀 I'm aiming forward to learn about new programming languages and technologies
 
@@ -22,6 +22,8 @@
       <img align="center" alt="Pedro-MySQL" height="30" widht="40" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=9745F5">
       <img align="center" alt="Pedro-C#" height="30" widht="40" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=9745F5">
       <img align="center" alt="Pedro-MongoDB" height="30" widht="40" src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=9745F5">
+      <img align="center" alt="Pedro-React" height="30" widht="40" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=9745F5">
+      <img align="center" alt="Pedro-Node" height="30" widht="40" src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=9745F5">
      </div>
   </div>
   
